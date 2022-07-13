@@ -21,5 +21,5 @@ https://viacep.com.br/ws/00000000/json/
 
 <p><b>5º Rode o comando "NPM START" para inicializar o projeto, em seguida, escaneie o código QR para ter a visualização do projeto em seu celular ou tablet</b></p>
 
-# Desenvolvido por Gustavo Scarpim:
-![Projeto em ação](./src/img/ReactNativeCep_GustavoScarpim.gif)
+# Desenvolvido por Fabiano Vasconcelos:
+
